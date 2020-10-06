@@ -4,7 +4,8 @@ The problem of predicting what a person is doing based on a trace of their movem
 
 The dataset is taken from the UCI Machine Learning Repository
 
-Classifictaion problem having 6 classes(activities which are performed)
+
+Classification problem having 6 classes(activities which are performed)
 
 1.Walking
 2.Walking Upstairs
